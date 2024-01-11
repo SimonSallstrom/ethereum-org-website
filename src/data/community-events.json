@@ -1,5 +1,23 @@
 [
   {
+    "title": "ETH Oxford",
+    "to": "https://www.ethoxford.io/",
+    "sponsor": null,
+    "location": "Oxford, UK",
+    "description": "ETH Oxford is a 3-day web3 hackathon bringing together the best builders of web3. Main Track categories focusing on ZK privacy and compliance, real-world assets tokenization, infrastructure, interoperability and low/no smart-codes.",
+    "startDate": "2024-03-08",
+    "endDate": "2024-03-11"
+  },
+  {
+    "title": "Oxford Blockchain Conference",
+    "to": "https://www.oxfordblockchain.xyz/conference/",
+    "sponsor": null,
+    "location": "Oxford, UK",
+    "description": "Oxford Blockchain Conference 2024 is a must-attend event for tech-savvy students and Web3 professionals! Our mission is to educate and connect the blockchain community through a day packed with engaging activities. ",
+    "startDate": "2024-03-12",
+    "endDate": "2024-03-13"
+  },
+  {
     "title": "ETH Abu Dhabi",
     "to": "https://www.ethabudhabi.org/",
     "sponsor": null,
@@ -58,9 +76,9 @@
     "to": "https://www.eth-vietnam.com/",
     "sponsor": null,
     "location": "Hanoi, Vietnam",
-    "description": "ETH Community in SEA to #Build, #Learn and #Share together.",
-    "startDate": "2024-03-16",
-    "endDate": "2024-03-17"
+    "description": "ETH Community in SEA to build, learn and share together.",
+    "startDate": "2023-10-27",
+    "endDate": "2023-10-29"
   },
   {
     "title": "AB-Summit",
